@@ -4,17 +4,17 @@ Section 3 is estimated to take a total of 6-10 hours to complete. Similar to the
 
 Since Arrays are a bigger topic, it is the main focus of this section. Some review work from the first two sections has been woven in so you get opportunities to continue seeing and applying those concepts, as well.
 
-- [Vocabulary](#Vocabulary)
-- [Part A: Growth Mindset](#Part-A-Growth-Mindset)
-- [Part B: Hashes](#Part-B-Hashes)
+- [x][Vocabulary](#Vocabulary)
+- [x][Part A: Growth Mindset](#Part-A-Growth-Mindset)
+- [x][Part B: Hashes](#Part-B-Hashes)
 
 ## Vocabulary
 
 ### Vocabulary Terms
 
-- hash
-- key
-- value
+- hash - an collection of key-value pairs to create a database within the code. it can be thought of like a dictionary
+- key - similar to a variable within a ruby hash - it names the data stored as a value within it
+- value - in a hash - the data assigned to a key 
 
 ## Open your local copy of backend-mod-1-prework
 
@@ -37,14 +37,14 @@ Today you will learn about two common data structures: arrays and hashes.
 
 When you are all done with the lessons, exercises, and questions for today, you will once again use git to save your work locally, and then send your work to Github.
 
-1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory. 
-    - [ ] Read about what an [array](https://learnrubythehardway.org/book/ex32.html) is from Learn Ruby the Hard Way.
+1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
+    - [x] Read about what an [array](https://learnrubythehardway.org/book/ex32.html) is from Learn Ruby the Hard Way.
 
-    - [ ] Learn how arrays are [index-based](https://learnrubythehardway.org/book/ex34.html) from Learn Ruby the Hard Way.
+    - [x] Learn how arrays are [index-based](https://learnrubythehardway.org/book/ex34.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Hashes](https://learnrubythehardway.org/book/ex39.html) from Learn Ruby the Hard Way.
+    - [x] [Hashes](https://learnrubythehardway.org/book/ex39.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes) from Ruby in 100 minutes.
+    - [x] [Hashes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#8.-hashes) from Ruby in 100 minutes.
 
 1. Work through the arrays.rb file in the section3/exercises directory.
 
