@@ -26,6 +26,10 @@ students_update = 2
 students = "#{x + students_update}"
 p students
 
+# could also be
+# students = 22 + 2
+# p students
+
 # Write code that subracts 2 from the `students` variable and
 # prints the result:
 students = "#{x - students_update}"
@@ -49,7 +53,7 @@ p number_of_pets
 
 # for first_name I used a string for text data
 # for is_hungry I used a boolean value of true because it was a yes or no question.
-# for number_of_pets I used a number (integer) because it is a question regarding qty.
+# for number_of_pets I used a number (integer) because it is a question regarding qty and you would only have whole pets.
 
 
 # YOU DO:
@@ -79,5 +83,5 @@ p total_snacks
 
 # Did you run this file in your terminal to make sure everything printed out to the terminal
   # as you would expect?
-
-  # yeah buddy! The students value change was the biggest doozy. 
+  
+# yeah buddy! The students value change was the biggest doozy.

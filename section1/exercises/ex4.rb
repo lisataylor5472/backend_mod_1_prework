@@ -49,3 +49,6 @@ puts "We have #{passengers} to carpool today."
 puts "We need to put about #{average_passengers_per_car} in each car."
 puts "There will be #{carpool_capacity - passengers} without a ride."
 =end
+
+
+# 1 - using a float digit will allow the math to be more precise - however since this problem deals with people it probably makes more sense to deal in only whole numbers

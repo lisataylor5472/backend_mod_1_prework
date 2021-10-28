@@ -43,7 +43,7 @@ puts w + e
 # string in a string exists
 
 
-#single quotes creates an issue at 'don't' -- would need to enact special characters
+# 5 - single quotes creates an issue at 'don't' -- would need to enact special characters
 # I also just learned that single quotes don't work when interpolating a variable expression
 # w/i a string...
 

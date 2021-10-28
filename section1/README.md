@@ -5,7 +5,7 @@ Section 1 is estimated to take a total of 6-10 hours to complete. Part C is the 
 - [x] [Vocabulary](#Vocabulary)
 - [x] [Part A: Super Learner Habits](#Part-A-Super-Learner-Habits)
 - [x] [Part B: Terminal](#Part-B-Terminal)
-- [ ] [Part C: Ruby Foundations](#Part-C-Ruby-Foundations)
+- [x] [Part C: Ruby Foundations](#Part-C-Ruby-Foundations)
 
 ## Vocabulary
 
@@ -48,7 +48,8 @@ You already have had some exposure to the terminal in [Mod 0, Session 2: Termina
 
 Visit the [Turing Terminal](https://learn-terminal.turing.io/) and read through the Learn section as needed. Explore the Playground as needed.
 
-👩‍💻 [x] Complete all three Challenges.
+👩‍💻
+- [x] Complete all three Challenges.
 
 ### Making Things, Navigating
 
@@ -166,25 +167,29 @@ This will open the `section1` directory in Atom. You should be able to see the d
     - [x] [Asking for Input](https://learnrubythehardway.org/book/ex11.html)
 
 
-1. Work through the [x][Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [x][Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
+1. Work through the [Strings](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings) and [Numbers](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#5.-numbers) sections from Ruby in 100 Minutes. For each of these sections, open an `irb` session by typing `irb` into your terminal and type in the code snippets provided.
+
+- [x] Strings
+- [x] Numbers
 
 ## Exercises
 - Each section contains an exercises directory containing files where you will practice writing code.
 
 Work through the files in the section1/exercises directory.  Complete them in this order:
 
-[x] strings   
-[x] numbers
-[x] booleans   
-[x] variables   
-[x] interpolation
-[x] loops
+  - [x] strings   
+  - [x] numbers
+  - [x] booleans   
+  - [x] variables   
+  - [x] interpolation
+  - [x] loops
 
 ## Questions
 - Each day contains a reflections.md file where you will answer questions about what you have learned.
 
 Answer the day 1 questions within the reflections.md file. The `.md` file extension refers to markdown formatting. Markdown is a simple markup language to help format your text. [This article](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) shows everything you need for basic markdown formatting.
 
+- [x] reflections
 
 ## Save your work in Git
 

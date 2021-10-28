@@ -32,3 +32,6 @@ print "How are you feeling today? "
 mood = gets.chomp
 
 puts "You're favorite color is #{color}, you are from #{location} and you are feeling #{mood}"
+
+
+# gets.chomp.to_i - Get a string from the user, chomp off the \n, and convert it to an integer.
