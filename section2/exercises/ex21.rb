@@ -38,3 +38,9 @@ what = subtract(height, multiply(weight, divide(iq, add(age, 5))))
 
 
 puts "That becomes: #{what}. Can you do it by hand?"
+
+
+#Study Drills
+# 1 - return gives the answer to the math problem
+# 2/3 - the computer is using the order of operations - I did all the math by hand in my notebook to see
+# how it was all nested within itself. 

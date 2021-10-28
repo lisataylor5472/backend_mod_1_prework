@@ -10,9 +10,10 @@
   # if it is snowy, print "coat"
   # if it is icy, print "yak traks"
 
+#declaring a variable
+  weather = 'snowy'
 
-  weather = 'rainy'
-
+# declaring a conditional statement and an action it will invoke
   if weather == 'sunny'
     p "sunscreen"
   elsif weather == 'rainy'
@@ -28,7 +29,7 @@
 
 # Experiment with manipulating the value held in variable 'weather'
 # to print something other than 'coat'
-
+weather = "rainy"
 
 ##################
 # Using the num_quarters variable defined below, determine
@@ -85,3 +86,10 @@ elsif cups_of_flour == 3 && has_sauce == true
 else
   p "We cannot determine whether or not you can make pizza!"
 end
+
+
+cups_of_flour = 10
+has_sauce = true
+
+cups_of_flour = 3
+has_sauce = false

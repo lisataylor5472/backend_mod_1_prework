@@ -19,38 +19,38 @@ trucks = 20
 # more cars than people - we will output the line below.
 if cars > people
 #this tells the code what to output if the above is true
-  puts "We should take the cars."
+    puts "We should take the cars."
 # this line defines the alternate branch to the above conditional; it states that if
 # there are less cars than people - run the following puts command.
 elsif cars < people
 # this tells the code what to output if the above is true
-  puts "We should not take the cars."
+    puts "We should not take the cars."
 # this line defines another branch for any other condition that may exist
 # meaning that if the first 2 conditions aren't true - the output will read "We can't decide"
 else
 # this tells the code what to output if the above is true
-  puts "We can't decide."
+    puts "We can't decide."
 # this ends the block of code - the computer won't search for any other conditions
 end
 
 # if trucks are greater than cars output the line below.
 if trucks > cars
-  puts "That's too many trucks."
+    puts "That's too many trucks."
 # alternatively - if trucks are less than cars output the new line below
 elsif trucks < cars
-  puts "Maybe we could take the trucks."
+    puts "Maybe we could take the trucks."
 # As a third route - if neither of the above are true - output the new line below.
 else
-  puts "We still can't decide."
+    puts "We still can't decide."
 # end the code block
 end
 
 # if people are greater than trucks (in qty) output the line below.
 if people > trucks
-  puts "Alright, let's just take the trucks."
+    puts "Alright, let's just take the trucks."
 # if the above is false - proceed to this branch and output the line below.
 else
-  puts "Fine, let's stay home then."
+    puts "Fine, let's stay home then."
 # ends the code block
 end
 
@@ -62,16 +62,16 @@ end
 # 2. Change the variables values - see above
 # 3.
 if people > trucks || cars > trucks
-  puts "Alright, the if statement ran!"
+    puts "Alright, the if statement ran!"
 else
-  puts "eh, the else statement ran!"
+    puts "eh, the else statement ran!"
 end
 
 if cars >= people || trucks <= cars
-  puts "The if statement ran!"
+    puts "The if statement ran!"
 elsif cars < people
-  puts "The elsif statement ran!"
+    puts "The elsif statement ran!"
 else
-  puts "We are on the else path now!"
+    puts "We are on the else path now!"
 end
 # 4 Add in comments re: what each line does - see above - I decided to go about it 2 different ways to play around and practice some comment styles

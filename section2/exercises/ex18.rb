@@ -1,3 +1,5 @@
+# I've created a function checklist in my notebook per the study drills. :D
+
 def print_two(*args)
   arg1, arg2 = args
   puts "arg1: #{arg1}, arg2: #{arg2}"
