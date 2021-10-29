@@ -28,6 +28,8 @@ p "The 5th animal is at #{animals.index(animals[x])} and it is a #{animals[x]}"
 
 
 
+# misc practice by LT
+
 twilight = ["Bella", "Edward", "Jacob", "Jasper", "Alice"]
 
 p twilight[1]
@@ -52,3 +54,8 @@ p random_array.sample + 1
 
 random_array.pop
 random_array.shift
+
+
+# Study Drills -
+# 1 - Jan 1, 2010 is an ordinal number so it is 2010 and not 2009
+# 2 - see above 

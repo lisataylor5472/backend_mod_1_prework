@@ -4,17 +4,17 @@ Section 3 is estimated to take a total of 6-10 hours to complete. Similar to the
 
 Since Arrays are a bigger topic, it is the main focus of this section. Some review work from the first two sections has been woven in so you get opportunities to continue seeing and applying those concepts, as well.
 
-- [x][Vocabulary](#Vocabulary)
-- [x][Part A: Growth Mindset](#Part-A-Growth-Mindset)
-- [x][Part B: Hashes](#Part-B-Hashes)
+- [x] [Vocabulary](#Vocabulary)
+- [x] [Part A: Growth Mindset](#Part-A-Growth-Mindset)
+- [x] [Part B: Hashes](#Part-B-Hashes)
 
 ## Vocabulary
 
 ### Vocabulary Terms
 
-- hash - an collection of key-value pairs to create a database within the code. it can be thought of like a dictionary
+- hash - a collection of key-value pairs to create a database within the code. it can be thought of like a dictionary
 - key - similar to a variable within a ruby hash - it names the data stored as a value within it
-- value - in a hash - the data assigned to a key 
+- value - in a hash - the data assigned to a key
 
 ## Open your local copy of backend-mod-1-prework
 

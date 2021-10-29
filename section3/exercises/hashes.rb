@@ -105,12 +105,10 @@ posts = [
 puts posts
 puts posts[0]
 
-
 # The code snippet above shows an Array with 2 elements. Each element in an
 # Object Literal. Each of those Object Literals has 4 key-value pairs. This may LOOK
 # a bit daunting - it's OK! You don't need to be 100% comfortable with this, but it's
 # good to have some exposure before going into Mod 1.
-
 
 # YOU DO: Create an array of at least 3 EMAIL Object Literals, using the same
 # key-value pairs you used in your email Object above.
@@ -143,4 +141,4 @@ emails = [
   }
 ]
 
-puts emails 
+puts emails

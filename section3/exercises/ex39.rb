@@ -62,6 +62,25 @@ puts "The city for the state 'TX' is: #{city}"
 
 
 
+# Study Drills
+# 1 - extra practice
+states = {
+  "Colorado" => "CO",
+  "Utah" => "UT",
+  "Wyoming" => "WY",
+  "New Mexico" => "NM",
+}
+
+# create a basic set of state and some cities in them
+cities = {
+  'CO' => 'Denver',
+  'UT' => 'Salt Lake City',
+  'WY' => 'Jackson',
+  'NM' => 'Santa Fe'
+}
+
+
+
 
 
 treats = {

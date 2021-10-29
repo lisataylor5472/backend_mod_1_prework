@@ -40,7 +40,9 @@ elements.each {|i| puts "Element was: #{i}"}
 a = ["1", "2", "3"]
 b = ["a", "b", "c"]
 
-
+# Study Drills
+# 1 and 2 --- see above 
+# 3 ----
 # appending array or element at the end of the array
 puts "adding more to a: #{a.insert(2, 2.5)}"
 puts "adding elements in b : #{b.append("bingo!")}"

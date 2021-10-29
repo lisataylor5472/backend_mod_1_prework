@@ -89,7 +89,6 @@ foods.delete_at(0)
 
 # The post itself likely has more complex data, but here is one way we can think about it:
 
-
 posts = ["image at beach", "holiday party", "adorable puppy", "video of cute baby"];
 
 # YOU DO: Think of a web application you commonly use. Where do you see LISTS utilized, where arrays
@@ -97,5 +96,5 @@ posts = ["image at beach", "holiday party", "adorable puppy", "video of cute bab
 # all from the same one.
 
 # 1: Wyze Camera App - stores video captures of your pets/intruders by date and time.
-# 2: Gmail Mail App - likley stores the list of emails you have received in an array
-# 3: FitOn App - stores the list of completed workouts in an array - also stores list of workouts you've not tried yet 
+# 2: Gmail Mail App - stores the list of emails you have received in an array
+# 3: FitOn App - stores the list of completed workouts in an array - also stores list of workouts you've not tried yet
