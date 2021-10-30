@@ -31,8 +31,7 @@ class MyCar
   def spray_paint(color)
       self.color = color
       puts color
-    end
-
+  end
 end
 
 falcor = MyCar.new(2021, "White", "Forester")
@@ -62,11 +61,9 @@ falcor.current_speed
 =end
 
 # Add accessor method to change color
-# Add accessor method to view the year
-
-
 falcor.color = 'black'
 p falcor.color
+# Add accessor method to view the year
 p falcor.year
 
 falcor.spray_paint('red')

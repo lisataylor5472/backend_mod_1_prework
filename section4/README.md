@@ -10,14 +10,14 @@ Section 4 is estimated to take a total of 10-14 hours to complete. Similar to th
 
 ### Vocabulary Terms
 
-- method
-- class
-- class instance
-- properties
+- method - grouping of repeatable code for easy re-use
+- class - a template of info/data/methods that will be applied to objects of that class
+- class instance - one object that is defined by the class
+- properties - the attributes of the class
 
 ## Part A How You Spend Your Time
 
-One challenge developers face, moreso when they are starting out, is estimating how long something will take. Sometimes we don't account for merge conflicts, bugs, annoying Slack messages, and all the other things that interrupt our workflow or slow us down.
+One challenge developers face, more-so when they are starting out, is estimating how long something will take. Sometimes we don't account for merge conflicts, bugs, annoying Slack messages, and all the other things that interrupt our workflow or slow us down.
 
 One challenge learners in a new environment/content area face is feeling like they know nothing, and until they know everything, they feel like they are failing.
 
@@ -36,13 +36,13 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-    - [ ] [What Are Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#whatareobjects) section from LaunchSchool.
+    - [x] [What Are Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#whatareobjects) section from LaunchSchool.
 
-    - [ ] [Classes Define Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#classesdefineobjects) section from LaunchSchool.
+    - [x] [Classes Define Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#classesdefineobjects) section from LaunchSchool.
 
-    - [ ] [Classes and Objects Part 1](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1) from LaunchSchool.
+    - [x] [Classes and Objects Part 1](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1) from LaunchSchool.
 
-    - [ ] [Objects, Attributes and Methods](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#11.-objects,-attributes,-and-methods) from Ruby in 100 Minutes.
+    - [x] [Objects, Attributes and Methods](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#11.-objects,-attributes,-and-methods) from Ruby in 100 Minutes.
 
 1. Work through the files in the section4/exercises directory.
 

@@ -1,3 +1,4 @@
+# more practice creating classes with a method
 class Gryffindor
   def initialize(name)
     @name = name

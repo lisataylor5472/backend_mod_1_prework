@@ -3,7 +3,7 @@ class Atreides
   def initialize(name)
 # the object's state
     @name = name
-        p "#{@name} is here!"
+    p "#{@name} is here!"
   end
 
 # method -- the objects behavior

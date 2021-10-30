@@ -19,7 +19,7 @@ class Dog
   def eat
     @hungry = false
   end
-
+# write a play method - makes the dog hungry
   def play
     @hungry = true
   end

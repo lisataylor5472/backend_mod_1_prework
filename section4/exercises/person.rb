@@ -24,7 +24,6 @@ class Person
 end
 
 
-
 lisa = Person.new("Lisa", "5'6", "chicken dance")
 lisa.speak
 lisa.dance_moves

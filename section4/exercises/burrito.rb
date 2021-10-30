@@ -12,15 +12,15 @@ class Burrito
     @base     = base
     @toppings = toppings
   end
-
+# 1. add_topping
   def add_topping
     @toppings << "sour cream"
   end
-
+# 2. remove_topping
   def remove_topping
     toppings.delete_at(0)
   end
-
+# 3. change_protein
   def change_protein
     @protein = "Carnitas"
   end
