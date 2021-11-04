@@ -83,7 +83,7 @@ def assess_situation(danger_level, save_the_day, bad_excuse)
     puts save_the_day
 
   else
-    puts "Uhhh - I need to return some video tapes"
+    puts "Meh. Hard Pass."
   end
 end
 
